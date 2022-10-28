@@ -1,4 +1,4 @@
 config:
-  resource-test:x: "100"
-  resource-test:y: "100"
+  resource-test:x: "50"
+  resource-test:y: "50"
   resource-test:z: "10"
